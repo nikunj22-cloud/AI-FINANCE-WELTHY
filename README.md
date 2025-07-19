@@ -1,6 +1,8 @@
 # Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI Tutorial 🔥🔥
 
-![App Screenshot](https://github.com/nikunj22-cloud/AI-FINANCE-WELTHY/raw/main/public/logo1.jpg)
+![Logo1](https://github.com/nikunj22-cloud/AI-FINANCE-WELTHY/raw/main/public/logo1.jpg)
+![Logo2](https://github.com/nikunj22-cloud/AI-FINANCE-WELTHY/raw/main/public/logo2.jpg)
+![Logo3](https://github.com/nikunj22-cloud/AI-FINANCE-WELTHY/raw/main/public/logo3.jpg)
 
 ### Make sure to create a `.env` file with following variables -
 
