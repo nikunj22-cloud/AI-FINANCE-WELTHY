@@ -1,25 +1,58 @@
-# Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI Tutorial 🔥🔥
+# 💸 AI Finance - Wealth Management App
 
-![Logo1](https://github.com/nikunj22-cloud/AI-FINANCE-WELTHY/raw/main/public/logo1.jpg)
-![Logo2](https://github.com/nikunj22-cloud/AI-FINANCE-WELTHY/raw/main/public/logo2.jpg)
-![Logo3](https://github.com/nikunj22-cloud/AI-FINANCE-WELTHY/raw/main/public/logo3.jpg)
+AI Finance is an AI-powered platform that helps you track expenses, manage budgets, and automate financial tracking using image-based receipt capture. Powered by advanced AI models, the app can auto-fill your expenses from uploaded receipts. Features include cron jobs using Inngest, API rate limiting via Arcjet, authentication via Clerk, SurrealDB-powered database with Supabase, and Next.js as the frontend framework.
 
-### Make sure to create a `.env` file with following variables -
+---
 
-```
-DATABASE_URL=
-DIRECT_URL=
+## 🚀 Features
 
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+- 📊 AI-powered expense tracking
+- 🏦 Budget management and spending insights
+- 📸 Auto expense logging via receipt images
+- ⏰ Automated tasks using Inngest (cron jobs)
+- 🚫 API rate limiting with Arcjet
+- 🔐 Secure authentication via Clerk
+- 🛢️ Database powered by Supabase
+- ⚡ Built using Next.js framework
 
-GEMINI_API_KEY=
+---
 
-RESEND_API_KEY=
+## 📱 App Screenshots
 
-ARCJET_KEY=
-```
+### Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/nikunj22-cloud/AI-FINANCE-WELTHY/raw/main/public/logo1.jpg)
+
+### Expense Tracking
+
+![Expense Tracking Screenshot](https://github.com/nikunj22-cloud/AI-FINANCE-WELTHY/raw/main/public/logo2.jpg)
+
+### Budget Overview
+
+![Budget Overview Screenshot](https://github.com/nikunj22-cloud/AI-FINANCE-WELTHY/raw/main/public/logo3.jpg)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Next.js** (Frontend)
+- **Supabase** (Database)
+- **SurrealDB** (Real-time database)
+- **Clerk** (User Authentication)
+- **Inngest** (Cron Jobs / Background Tasks)
+- **Arcjet** (API Rate Limiting)
+- **AI Models** for receipt scanning and expense classification
+
+---
+
+## 📄 License
+
+MIT
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+---
